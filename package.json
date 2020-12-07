@@ -1,0 +1,15 @@
+{
+  "name": "frank-node-todo",
+  "version": "1.0.1",
+  "description": "a command line tool for todo list",
+  "main": "todo.js",
+  "bin": {
+    "todo": "./todo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youhuakun",
+  "license": "ISC",
+  "dependencies": {}
+}
